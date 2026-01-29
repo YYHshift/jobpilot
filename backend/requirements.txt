@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+selenium
+webdriver-manager
+pandas
+google-generative-ai
+supabase
+python-dotenv
