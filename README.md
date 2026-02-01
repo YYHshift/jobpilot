@@ -102,18 +102,6 @@ Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:30
 
 ---
 
-## 📸 Screenshots
-
-### 1. Analytics Dashboard (The "Quad" View)
-
-*(Place your screenshot of the 4 charts here)*
-
-### 2. Smart Search & Job List
-
-*(Place your screenshot of the search page here)*
-
----
-
 ## 🔮 Future Improvements
 
 * [ ] **Cron Job Integration**: Automate daily scraping using GitHub Actions or Airflow.
