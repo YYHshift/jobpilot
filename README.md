@@ -98,7 +98,7 @@ npm run dev
 
 ```
 
-Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) to view the app.
+Open [https://jobpilot-h1ih.vercel.app](https://jobpilot-h1ih.vercel.app) to view the app.
 
 ---
 
