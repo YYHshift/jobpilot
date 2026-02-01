@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+supabase
+selenium
+webdriver-manager
+google-generativeai
+python-dotenv
+requests
